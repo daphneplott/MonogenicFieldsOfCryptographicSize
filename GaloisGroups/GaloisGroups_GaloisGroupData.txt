@@ -8,7 +8,7 @@ Data for x^3 + l*x^2 + m*x + n, with l, m, n in [-3,3] and c in [0,10]
     ('C3', None, True, False): 2                  3
   
     Neither are monogenic
-    {('S3', 'C2 x S4', False, False): 139         6, 48
+    ('S3', 'C2 x S4', False, False): 139          6, 48
     ('S3', 'D6', False, False): 4                 6, 12
     ('S3', 'S3', False, False): 4                 6, 6
     ('S3', 'S4', False, False): 2                 6, 24
